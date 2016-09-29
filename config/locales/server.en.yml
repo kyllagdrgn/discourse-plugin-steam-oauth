@@ -1,0 +1,5 @@
+en:
+  site_settings:
+    steam_oauth_enabled: 'Steam-OAuth Enabled:'
+    steam_oauth_id: 'Steam-OAuth ID:'
+    steam_oauth_secret: 'Steam-OAuth Secret:'

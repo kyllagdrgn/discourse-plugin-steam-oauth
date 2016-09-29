@@ -1,0 +1,6 @@
+login:
+  steam_oauth_enabled:
+    default: false
+    client: true
+  steam_oauth_id: ''
+  steam_oauth_secret: ''
